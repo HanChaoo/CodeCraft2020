@@ -3,7 +3,7 @@
 ## 前言
 * 团队名：小金鱼拉着一小摩托的小火车
 * 成绩：上合赛区初赛rank3，复赛a榜rank4，b榜rank1
-* 成员：zhaosy，[hanchaoo](github.com/HanChaoo)，[washboard](github.com/washboard)
+* 成员：syzhao(github.com/SongyuanZhao)，[hanchaoo](github.com/HanChaoo)，[washboard](github.com/washboard)
 
 
 ## 赛题分析
